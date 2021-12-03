@@ -64,6 +64,6 @@ export default function Home() {
 
         <Button type="submit" mt="6" colorScheme="pink" size="lg" isLoading={formState.isSubmitting}>Entrar</Button>
       </Flex>
-    </Flex>
+    </Flex> 
   );
 }
